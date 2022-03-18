@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Taller_2_GomezDelgado_JoseDavid</string>
+    <string name="cerrar_app">Cerrar app</string>
+    <string name="crear_usuario">Crear usuario</string>
+    <string name="name">Jhon Doe</string>
+    <string name="ingrese_el_nombre">Ingrese el nombre</string>
+    <string name="textview">Piedra papel o tijeras</string>
+    <string name="ganador">Ganador</string>
+    <string name="jugar_intento">Jugar intento</string>
+</resources>
